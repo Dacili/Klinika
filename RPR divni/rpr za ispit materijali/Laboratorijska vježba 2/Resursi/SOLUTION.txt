@@ -1,0 +1,29 @@
+interface iLogger {
+	void log(String message);
+}
+
+class Logger {
+	static private iLogger logger;
+	static void setLogger(iLogger l);
+	static void getLogger();
+}
+
+class DummyLogger: iLogger {
+	void log(String message);
+}
+
+class LoggerAdapter: iLogger {
+	private RPR.Logger logger;
+	void log(string message);
+}
+
+upotreba:
+
+LoggerAdapter la = new LoggerAdapter();
+Logger.setLogger(la);
+
+
+Logger.getLogger().log("Hello")
+
+
+

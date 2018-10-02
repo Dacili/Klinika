@@ -1,0 +1,14 @@
+C:\Users\Haris\source\repos\PripremaIspita\PripremaIspita\bin\Debug\PripremaIspita.exe.config
+C:\Users\Haris\source\repos\PripremaIspita\PripremaIspita\bin\Debug\PripremaIspita.exe
+C:\Users\Haris\source\repos\PripremaIspita\PripremaIspita\bin\Debug\PripremaIspita.pdb
+C:\Users\Haris\source\repos\PripremaIspita\PripremaIspita\obj\Debug\PripremaIspita.csprojResolveAssemblyReference.cache
+C:\Users\Haris\source\repos\PripremaIspita\PripremaIspita\obj\Debug\PripremaIspita.csproj.CoreCompileInputs.cache
+C:\Users\Haris\source\repos\PripremaIspita\PripremaIspita\obj\Debug\PripremaIspita.exe
+C:\Users\Haris\source\repos\PripremaIspita\PripremaIspita\obj\Debug\PripremaIspita.pdb
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PrirpemaIspita - IParcijalni2016-2017\PripremaIspita\PripremaIspita\bin\Debug\PripremaIspita.exe.config
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PrirpemaIspita - IParcijalni2016-2017\PripremaIspita\PripremaIspita\bin\Debug\PripremaIspita.exe
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PrirpemaIspita - IParcijalni2016-2017\PripremaIspita\PripremaIspita\bin\Debug\PripremaIspita.pdb
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PrirpemaIspita - IParcijalni2016-2017\PripremaIspita\PripremaIspita\obj\Debug\PripremaIspita.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PrirpemaIspita - IParcijalni2016-2017\PripremaIspita\PripremaIspita\obj\Debug\PripremaIspita.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PrirpemaIspita - IParcijalni2016-2017\PripremaIspita\PripremaIspita\obj\Debug\PripremaIspita.exe
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PrirpemaIspita - IParcijalni2016-2017\PripremaIspita\PripremaIspita\obj\Debug\PripremaIspita.pdb

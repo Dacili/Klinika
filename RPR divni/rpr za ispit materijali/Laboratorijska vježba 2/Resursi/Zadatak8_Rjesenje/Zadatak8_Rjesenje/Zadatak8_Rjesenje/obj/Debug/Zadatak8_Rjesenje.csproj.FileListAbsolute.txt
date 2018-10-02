@@ -1,0 +1,6 @@
+c:\users\haris\documents\visual studio 2015\Projects\Zadatak8_Rjesenje\Zadatak8_Rjesenje\bin\Debug\Zadatak8_Rjesenje.exe.config
+c:\users\haris\documents\visual studio 2015\Projects\Zadatak8_Rjesenje\Zadatak8_Rjesenje\bin\Debug\Zadatak8_Rjesenje.exe
+c:\users\haris\documents\visual studio 2015\Projects\Zadatak8_Rjesenje\Zadatak8_Rjesenje\bin\Debug\Zadatak8_Rjesenje.pdb
+c:\users\haris\documents\visual studio 2015\Projects\Zadatak8_Rjesenje\Zadatak8_Rjesenje\obj\Debug\Zadatak8_Rjesenje.csprojResolveAssemblyReference.cache
+c:\users\haris\documents\visual studio 2015\Projects\Zadatak8_Rjesenje\Zadatak8_Rjesenje\obj\Debug\Zadatak8_Rjesenje.exe
+c:\users\haris\documents\visual studio 2015\Projects\Zadatak8_Rjesenje\Zadatak8_Rjesenje\obj\Debug\Zadatak8_Rjesenje.pdb

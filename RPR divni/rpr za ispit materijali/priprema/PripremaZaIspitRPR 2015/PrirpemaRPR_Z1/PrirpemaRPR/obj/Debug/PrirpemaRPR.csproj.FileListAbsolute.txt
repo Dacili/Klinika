@@ -1,0 +1,13 @@
+c:\users\haris\documents\visual studio 2015\Projects\PrirpemaRPR\PrirpemaRPR\bin\Debug\PrirpemaRPR.exe.config
+c:\users\haris\documents\visual studio 2015\Projects\PrirpemaRPR\PrirpemaRPR\bin\Debug\PrirpemaRPR.exe
+c:\users\haris\documents\visual studio 2015\Projects\PrirpemaRPR\PrirpemaRPR\bin\Debug\PrirpemaRPR.pdb
+c:\users\haris\documents\visual studio 2015\Projects\PrirpemaRPR\PrirpemaRPR\obj\Debug\PrirpemaRPR.csprojResolveAssemblyReference.cache
+c:\users\haris\documents\visual studio 2015\Projects\PrirpemaRPR\PrirpemaRPR\obj\Debug\PrirpemaRPR.exe
+c:\users\haris\documents\visual studio 2015\Projects\PrirpemaRPR\PrirpemaRPR\obj\Debug\PrirpemaRPR.pdb
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PrirpemaRPR_Z1\PrirpemaRPR\bin\Debug\PrirpemaRPR.exe.config
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PrirpemaRPR_Z1\PrirpemaRPR\bin\Debug\PrirpemaRPR.exe
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PrirpemaRPR_Z1\PrirpemaRPR\bin\Debug\PrirpemaRPR.pdb
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PrirpemaRPR_Z1\PrirpemaRPR\obj\Debug\PrirpemaRPR.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PrirpemaRPR_Z1\PrirpemaRPR\obj\Debug\PrirpemaRPR.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PrirpemaRPR_Z1\PrirpemaRPR\obj\Debug\PrirpemaRPR.exe
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PrirpemaRPR_Z1\PrirpemaRPR\obj\Debug\PrirpemaRPR.pdb

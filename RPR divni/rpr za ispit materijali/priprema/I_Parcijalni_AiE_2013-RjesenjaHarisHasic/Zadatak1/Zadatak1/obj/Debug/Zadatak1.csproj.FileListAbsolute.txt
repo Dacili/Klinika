@@ -1,0 +1,13 @@
+c:\users\haris\documents\visual studio 2012\Projects\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\Haris\documents\visual studio 2012\Projects\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\Haris\documents\visual studio 2012\Projects\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Haris\documents\visual studio 2012\Projects\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csprojResolveAssemblyReference.cache
+C:\Users\Haris\documents\visual studio 2012\Projects\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\Haris\documents\visual studio 2012\Projects\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\I_Parcijalni_AiE_2013-RjesenjaHarisHasic\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\I_Parcijalni_AiE_2013-RjesenjaHarisHasic\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\I_Parcijalni_AiE_2013-RjesenjaHarisHasic\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\I_Parcijalni_AiE_2013-RjesenjaHarisHasic\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\I_Parcijalni_AiE_2013-RjesenjaHarisHasic\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\I_Parcijalni_AiE_2013-RjesenjaHarisHasic\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\I_Parcijalni_AiE_2013-RjesenjaHarisHasic\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb

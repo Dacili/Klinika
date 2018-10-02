@@ -1,0 +1,34 @@
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\bin\Debug\Start_forma.exe.config
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\bin\Debug\Start_forma.exe
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\bin\Debug\Start_forma.pdb
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.exe
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.pdb
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.KLINIKA.resources
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.Form2.resources
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.Form3.resources
+C:\Users\Korisnik\Desktop\Start_forma\Start_forma\obj\Debug\Start_forma.Form4.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\bin\Debug\Start_forma.exe.config
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\bin\Debug\Start_forma.exe
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\bin\Debug\Start_forma.pdb
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.exe
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.pdb
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.PACIJENT_F.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.KLINIKA_OSOBLJE.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.PACIJENT_2.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.KLINIKA_DOKTOR.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.log_in.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.DODAJPACIJENTA.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.POCETNA.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.Kreiraj_karton.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.Red_cekanja.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.Graf.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.TreeView.resources
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\Start_forma\Start_forma\obj\Debug\Start_forma.User_control_id_ok.resources

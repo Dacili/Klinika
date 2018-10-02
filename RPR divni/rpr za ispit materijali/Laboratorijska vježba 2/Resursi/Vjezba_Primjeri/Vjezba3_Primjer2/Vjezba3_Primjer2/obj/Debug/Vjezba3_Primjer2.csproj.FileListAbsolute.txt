@@ -1,0 +1,6 @@
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer2\Vjezba3_Primjer2\bin\Debug\Vjezba3_Primjer2.exe.config
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer2\Vjezba3_Primjer2\obj\Debug\Vjezba3_Primjer2.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer2\Vjezba3_Primjer2\bin\Debug\Vjezba3_Primjer2.exe
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer2\Vjezba3_Primjer2\bin\Debug\Vjezba3_Primjer2.pdb
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer2\Vjezba3_Primjer2\obj\Debug\Vjezba3_Primjer2.exe
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer2\Vjezba3_Primjer2\obj\Debug\Vjezba3_Primjer2.pdb

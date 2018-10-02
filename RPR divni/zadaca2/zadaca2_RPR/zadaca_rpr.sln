@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadaca_rpr", "zadaca_rpr\zadaca_rpr.csproj", "{74B91C2D-BD56-4634-B73F-F20F3A35BB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeineDLL", "MeineDLL\MeineDLL.csproj", "{23FC4BD7-B5EF-4AF6-9394-992EBF83CA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaciDLL", "DaciDLL\DaciDLL.csproj", "{1A37F223-A893-48CD-B312-0AE8B2F6C1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B91C2D-BD56-4634-B73F-F20F3A35BB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B91C2D-BD56-4634-B73F-F20F3A35BB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B91C2D-BD56-4634-B73F-F20F3A35BB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B91C2D-BD56-4634-B73F-F20F3A35BB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FC4BD7-B5EF-4AF6-9394-992EBF83CA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FC4BD7-B5EF-4AF6-9394-992EBF83CA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FC4BD7-B5EF-4AF6-9394-992EBF83CA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FC4BD7-B5EF-4AF6-9394-992EBF83CA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A37F223-A893-48CD-B312-0AE8B2F6C1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A37F223-A893-48CD-B312-0AE8B2F6C1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A37F223-A893-48CD-B312-0AE8B2F6C1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A37F223-A893-48CD-B312-0AE8B2F6C1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4EECBE4-CD76-4CB1-B6AD-29595FFD00DD}
+	EndGlobalSection
+EndGlobal

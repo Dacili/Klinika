@@ -1,0 +1,8 @@
+D:\Documents\ETF\1. ciklus\3. semestar\RPR\[RPR]-2015-2016\Vjezbe\Vjezbe-4\Rjesenje\Vjezbe_4\Zadatak_1\bin\Debug\Zadatak_1.exe.config
+D:\Documents\ETF\1. ciklus\3. semestar\RPR\[RPR]-2015-2016\Vjezbe\Vjezbe-4\Rjesenje\Vjezbe_4\Zadatak_1\bin\Debug\Zadatak_1.exe
+D:\Documents\ETF\1. ciklus\3. semestar\RPR\[RPR]-2015-2016\Vjezbe\Vjezbe-4\Rjesenje\Vjezbe_4\Zadatak_1\bin\Debug\Zadatak_1.pdb
+D:\Documents\ETF\1. ciklus\3. semestar\RPR\[RPR]-2015-2016\Vjezbe\Vjezbe-4\Rjesenje\Vjezbe_4\Zadatak_1\obj\Debug\Zadatak_1.exe
+D:\Documents\ETF\1. ciklus\3. semestar\RPR\[RPR]-2015-2016\Vjezbe\Vjezbe-4\Rjesenje\Vjezbe_4\Zadatak_1\obj\Debug\Zadatak_1.pdb
+D:\Documents\ETF\1. ciklus\3. semestar\RPR\[RPR]-2015-2016\Vjezbe\Vjezbe-4\Rjesenje\Vjezbe_4\Zadatak_1\obj\Debug\Zadatak_1.Properties.Resources.resources
+D:\Documents\ETF\1. ciklus\3. semestar\RPR\[RPR]-2015-2016\Vjezbe\Vjezbe-4\Rjesenje\Vjezbe_4\Zadatak_1\obj\Debug\Zadatak_1.csproj.GenerateResource.Cache
+D:\Documents\ETF\1. ciklus\3. semestar\RPR\[RPR]-2015-2016\Vjezbe\Vjezbe-4\Rjesenje\Vjezbe_4\Zadatak_1\obj\Debug\Zadatak_1.csprojResolveAssemblyReference.cache

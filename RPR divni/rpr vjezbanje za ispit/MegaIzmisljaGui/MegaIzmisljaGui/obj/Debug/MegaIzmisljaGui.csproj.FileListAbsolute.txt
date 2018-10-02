@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\MegaIzmisljaGui\MegaIzmisljaGui\obj\Debug\MegaIzmisljaGui.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\MegaIzmisljaGui\MegaIzmisljaGui\bin\Debug\MegaIzmisljaGui.exe.config
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\MegaIzmisljaGui\MegaIzmisljaGui\bin\Debug\MegaIzmisljaGui.exe
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\MegaIzmisljaGui\MegaIzmisljaGui\bin\Debug\MegaIzmisljaGui.pdb
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\MegaIzmisljaGui\MegaIzmisljaGui\obj\Debug\MegaIzmisljaGui.exe
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\MegaIzmisljaGui\MegaIzmisljaGui\obj\Debug\MegaIzmisljaGui.pdb

@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\gui pasa gui\gui pasa gui\bin\Debug\gui pasa gui.exe.config
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\gui pasa gui\gui pasa gui\bin\Debug\gui pasa gui.exe
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\gui pasa gui\gui pasa gui\bin\Debug\gui pasa gui.pdb
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\gui pasa gui\gui pasa gui\obj\Debug\gui pasa gui.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\gui pasa gui\gui pasa gui\obj\Debug\gui pasa gui.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\gui pasa gui\gui pasa gui\obj\Debug\gui pasa gui.exe
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\gui pasa gui\gui pasa gui\obj\Debug\gui pasa gui.pdb

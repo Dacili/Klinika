@@ -1,0 +1,2 @@
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\PozoristeMega\PozoristeMega\obj\Debug\PozoristeMega.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\PozoristeMega\PozoristeMega\obj\Debug\PozoristeMega.csproj.CoreCompileInputs.cache

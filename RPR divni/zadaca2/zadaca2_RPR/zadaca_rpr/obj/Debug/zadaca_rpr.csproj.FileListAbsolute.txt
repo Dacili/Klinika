@@ -1,0 +1,36 @@
+C:\Users\Korisnik\source\repos\zadaca_rpr\zadaca_rpr\bin\Debug\zadaca_rpr.exe.config
+C:\Users\Korisnik\source\repos\zadaca_rpr\zadaca_rpr\bin\Debug\zadaca_rpr.exe
+C:\Users\Korisnik\source\repos\zadaca_rpr\zadaca_rpr\bin\Debug\zadaca_rpr.pdb
+C:\Users\Korisnik\source\repos\zadaca_rpr\zadaca_rpr\obj\Debug\zadaca_rpr.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\zadaca_rpr\zadaca_rpr\obj\Debug\zadaca_rpr.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\zadaca_rpr\zadaca_rpr\obj\Debug\zadaca_rpr.exe
+C:\Users\Korisnik\source\repos\zadaca_rpr\zadaca_rpr\obj\Debug\zadaca_rpr.pdb
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\bin\Debug\zadaca_rpr.exe.config
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\bin\Debug\zadaca_rpr.exe
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\bin\Debug\zadaca_rpr.pdb
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\obj\Debug\zadaca_rpr.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\obj\Debug\zadaca_rpr.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\obj\Debug\zadaca_rpr.exe
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\obj\Debug\zadaca_rpr.pdb
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\bin\Debug\MeineDLL.dll
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\zadaca_rpr\bin\Debug\MeineDLL.pdb
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\bin\Debug\zadaca_rpr.exe.config
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\bin\Debug\zadaca_rpr.exe
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\bin\Debug\zadaca_rpr.pdb
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\bin\Debug\MeineDLL.dll
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\bin\Debug\MeineDLL.pdb
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.exe
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.pdb
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.KLINIKA.resources
+C:\Users\Korisnik\Desktop\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\bin\Debug\zadaca_rpr.exe.config
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\bin\Debug\zadaca_rpr.exe
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\bin\Debug\zadaca_rpr.pdb
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\bin\Debug\MeineDLL.dll
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\bin\Debug\MeineDLL.pdb
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.exe
+C:\Users\Korisnik\Desktop\RPR divni\zadaca2\zadaca2_RPR\zadaca_rpr\obj\Debug\zadaca_rpr.pdb

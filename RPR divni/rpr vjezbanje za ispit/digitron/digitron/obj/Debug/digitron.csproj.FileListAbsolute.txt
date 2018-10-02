@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\digitron\digitron\bin\Debug\digitron.exe.config
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\digitron\digitron\bin\Debug\digitron.exe
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\digitron\digitron\bin\Debug\digitron.pdb
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\digitron\digitron\obj\Debug\digitron.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\digitron\digitron\obj\Debug\digitron.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\digitron\digitron\obj\Debug\digitron.exe
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\digitron\digitron\obj\Debug\digitron.pdb

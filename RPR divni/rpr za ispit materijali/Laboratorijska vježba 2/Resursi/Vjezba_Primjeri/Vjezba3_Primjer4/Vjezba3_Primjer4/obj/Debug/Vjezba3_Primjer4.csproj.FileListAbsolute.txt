@@ -1,0 +1,5 @@
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer4\Vjezba3_Primjer4\bin\Debug\Vjezba3_Primjer4.exe.config
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer4\Vjezba3_Primjer4\bin\Debug\Vjezba3_Primjer4.exe
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer4\Vjezba3_Primjer4\bin\Debug\Vjezba3_Primjer4.pdb
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer4\Vjezba3_Primjer4\obj\Debug\Vjezba3_Primjer4.exe
+D:\Documents\Projects\Visual Studio 2012\Vjezba3_Primjer4\Vjezba3_Primjer4\obj\Debug\Vjezba3_Primjer4.pdb

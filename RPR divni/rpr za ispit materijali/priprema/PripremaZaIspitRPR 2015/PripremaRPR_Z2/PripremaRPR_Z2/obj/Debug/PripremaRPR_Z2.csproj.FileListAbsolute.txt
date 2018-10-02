@@ -1,0 +1,19 @@
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\bin\Debug\PripremaRPR_Z2.exe.config
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.csprojResolveAssemblyReference.cache
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.Form1.resources
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.Properties.Resources.resources
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.csproj.GenerateResource.Cache
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\bin\Debug\PripremaRPR_Z2.exe
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\bin\Debug\PripremaRPR_Z2.pdb
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.exe
+c:\users\haris\documents\visual studio 2015\Projects\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.pdb
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\bin\Debug\PripremaRPR_Z2.exe.config
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\bin\Debug\PripremaRPR_Z2.exe
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\bin\Debug\PripremaRPR_Z2.pdb
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.Form1.resources
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.exe
+C:\Users\Korisnik\Desktop\II Godina RI\I parc\RPR\rjeseni rokovi\PripremaZaIspitRPR 2015\PripremaRPR_Z2\PripremaRPR_Z2\obj\Debug\PripremaRPR_Z2.pdb

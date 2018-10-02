@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\automobili\automobili\bin\Debug\automobili.exe.config
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\automobili\automobili\bin\Debug\automobili.exe
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\automobili\automobili\bin\Debug\automobili.pdb
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\automobili\automobili\obj\Debug\automobili.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\automobili\automobili\obj\Debug\automobili.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\automobili\automobili\obj\Debug\automobili.exe
+C:\Users\Korisnik\Desktop\rpr vjezbanje za ispit\automobili\automobili\obj\Debug\automobili.pdb

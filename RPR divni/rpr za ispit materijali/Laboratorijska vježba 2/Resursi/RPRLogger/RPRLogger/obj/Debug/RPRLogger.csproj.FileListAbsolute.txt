@@ -1,0 +1,5 @@
+D:\ETF\V RPR\2014\V2\RPRLogger\RPRLogger\bin\Debug\RPRLogger.dll
+D:\ETF\V RPR\2014\V2\RPRLogger\RPRLogger\bin\Debug\RPRLogger.pdb
+D:\ETF\V RPR\2014\V2\RPRLogger\RPRLogger\obj\Debug\RPRLogger.csprojResolveAssemblyReference.cache
+D:\ETF\V RPR\2014\V2\RPRLogger\RPRLogger\obj\Debug\RPRLogger.dll
+D:\ETF\V RPR\2014\V2\RPRLogger\RPRLogger\obj\Debug\RPRLogger.pdb

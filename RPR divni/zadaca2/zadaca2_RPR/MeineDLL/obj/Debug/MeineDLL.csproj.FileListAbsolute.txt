@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\MeineDLL\bin\Debug\MeineDLL.dll
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\MeineDLL\bin\Debug\MeineDLL.pdb
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\MeineDLL\obj\Debug\MeineDLL.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\MeineDLL\obj\Debug\MeineDLL.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\MeineDLL\obj\Debug\MeineDLL.dll
+C:\Users\Korisnik\Desktop\zadaca_rpr - Copy\MeineDLL\obj\Debug\MeineDLL.pdb
