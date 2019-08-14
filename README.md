@@ -6,7 +6,7 @@
   - Doctor
   - Medical worker
   - Patient
-* Depends on the role of user, they can do different functionalities (creating card, different types of search, evidence of patient review, numbers for waiting in queue, inspect the informations about patient...)
+* Depends on the role of user, they can do different functionalities (creating the card, different types of search, evidence of patient review, numbers for waiting in the queue, inspect the pieces of information about patient...)
 * Different types of validation
 * GUI
 
